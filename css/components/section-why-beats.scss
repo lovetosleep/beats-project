@@ -1,0 +1,10 @@
+.section-why-beats {
+    position: relative;
+
+    &:before {
+        position: absolute;
+        bottom: -26px;
+        left: 24%;
+        content: url("../img/icons/triangle.png");
+    }
+}
