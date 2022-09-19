@@ -88,7 +88,7 @@ img {
 .hero:before {
   position: absolute;
   bottom: -26px;
-  right: 14%;
+  right: 24%;
   content: url("../img/icons/rectangle.png");
 }
 
